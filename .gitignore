@@ -38,6 +38,8 @@ target_wrapper.*
 # QtCreator Qml
 *.qmlproject.user
 *.qmlproject.user.*
-
+*_qml.cpp
+qmlcache_loader.cpp
 # QtCreator CMake
 CMakeLists.txt.user*
+
